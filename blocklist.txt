@@ -1,0 +1,6 @@
+||ade.googlesyndication.com^
+||pagead2.googlesyndication.com^
+||adservices.google.com^
+||googleadservices.com^
+||google-analytics.com^
+||doubleclick.net^
